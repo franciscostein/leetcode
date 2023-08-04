@@ -1,0 +1,15 @@
+/home/leandro/Projects/leetcode/two-sum/obj/Debug/net6.0/two-sum.csproj.AssemblyReference.cache
+/home/leandro/Projects/leetcode/two-sum/obj/Debug/net6.0/two-sum.GeneratedMSBuildEditorConfig.editorconfig
+/home/leandro/Projects/leetcode/two-sum/obj/Debug/net6.0/two-sum.AssemblyInfoInputs.cache
+/home/leandro/Projects/leetcode/two-sum/obj/Debug/net6.0/two-sum.AssemblyInfo.cs
+/home/leandro/Projects/leetcode/two-sum/obj/Debug/net6.0/two-sum.csproj.CoreCompileInputs.cache
+/home/leandro/Projects/leetcode/two-sum/bin/Debug/net6.0/two-sum
+/home/leandro/Projects/leetcode/two-sum/bin/Debug/net6.0/two-sum.deps.json
+/home/leandro/Projects/leetcode/two-sum/bin/Debug/net6.0/two-sum.runtimeconfig.json
+/home/leandro/Projects/leetcode/two-sum/bin/Debug/net6.0/two-sum.dll
+/home/leandro/Projects/leetcode/two-sum/bin/Debug/net6.0/two-sum.pdb
+/home/leandro/Projects/leetcode/two-sum/obj/Debug/net6.0/two-sum.dll
+/home/leandro/Projects/leetcode/two-sum/obj/Debug/net6.0/refint/two-sum.dll
+/home/leandro/Projects/leetcode/two-sum/obj/Debug/net6.0/two-sum.pdb
+/home/leandro/Projects/leetcode/two-sum/obj/Debug/net6.0/two-sum.genruntimeconfig.cache
+/home/leandro/Projects/leetcode/two-sum/obj/Debug/net6.0/ref/two-sum.dll
